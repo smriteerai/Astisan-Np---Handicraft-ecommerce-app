@@ -1,0 +1,1 @@
+ C:\\Users\\ACER\\artisan_np\\.dart_tool\\flutter_build\\faf074e3eea8431dc6d2417c57fa4e8f\\native_assets.yaml: 

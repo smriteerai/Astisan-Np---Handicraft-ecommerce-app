@@ -1,0 +1,21 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.smritee.ecommerce">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        
+        android:label="E-commerce App"
+        android:icon="@mipmap/ic_launcher"
+        tools:replace="android:label">
+        
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <!-- You can declare other activities and application components here -->
+    </application>
+</manifest>
